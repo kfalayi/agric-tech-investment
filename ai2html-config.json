@@ -1,0 +1,16 @@
+{	
+	"fonts": [
+        {
+            "aifont": "Georgia-Bold",
+            "family": "Georgia",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Georgia",
+            "family": "Georgia",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
