@@ -5,7 +5,7 @@ of funding investors are putting into agritech startups, this looks at all inves
 The main reason of this project is to visualize the analysis in an easy-to-grasp way with scrollytelling. So, a tree map seems like a great idea.
 
 In the the analysis [notebook](https://github.com/kfalayi/agric-tech-investment/blob/main/agritech.ipynb), I look at the sum of all investments in startups which amounts to $37.8billion. 
-## Most important findings
+## Findings
 - Biotech is the solution area of agriculture technology getting most of the funding, with 45 percent of all investments.
 - Only a $10,000 investment is on the database as funding for a biotech startup in Africa. This is filtered out in visualization due to scale.
 - US/North America is where the majority of biotech investments are made.
