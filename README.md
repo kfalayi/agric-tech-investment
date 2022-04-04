@@ -6,6 +6,10 @@ The main reason of this project is to visualize the analysis in an easy-to-grasp
 
 In the the analysis [notebook](https://github.com/kfalayi/agric-tech-investment/blob/main/agritech.ipynb), I look at the sum of all investments in startups which amounts to $37.8billion. 
 ## Most important findings
-Then I looked at which solution area of agriculture technology is getting most of the funding. Biotech takes 45 percent of all investments.
-I also look at which countries and continents are the most investments in biotech directed. Unsurprising there that it is the US/North America.
-I calculated the percentage of all funding which are made on the Africn continent. It amounts to 0.9 percent. When weighed against population. It ranks lowest. For every African, there is 0.6 dollar in investment. In comparison, there are $40 in investment for every resident of a North American country. Oceanic which where the lowest investment is made also has a higher investment per capita than Africa - 5.6 dollars to every resident of an Oceanic country.
+- Biotech is the solution area of agriculture technology getting most of the funding, with 45 percent of all investments.
+- Only a $10,000 investment is on the database as funding for a biotech startup in Africa. This is filtered out in visualization due to scale.
+- US/North America is where the majority of biotech investments are made.
+- Only 0.9 percent of all investments is made in Africa.
+- When weighed against population, Africa ranks lowest despite more investments than Oceania.
+- Investment per capita in Africa amounts to 0.6 dollar to every citizen of an African country. In comparison, there are $40 in investment for every resident of a North American country. 
+- Oceanic which where the lowest investment is made also has a higher investment per capita than Africa - 5.6 dollars to every resident of an Oceanic country.
